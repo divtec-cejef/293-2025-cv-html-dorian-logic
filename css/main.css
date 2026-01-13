@@ -3,6 +3,8 @@ body {
 }
 
 .spin {
+  width: 10 em;
+  height: 10 em;
   display: inline-block;
   animation: spin 1s linear infinite;
 }
