@@ -7,6 +7,10 @@ img {
   width: 200px;
 }
 
+.chat1 {
+  border-radius: 8px;
+}
+
 .spin {
   border-radius: 50px;
   display: inline-block;
